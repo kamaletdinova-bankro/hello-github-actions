@@ -1,6 +1,6 @@
+name: A workflow for my Hello World file
+on: push
 jobs:
-  job_id:1
-     build:
     name: Hello world action
     runs-on: ubuntu-latest
     steps:
